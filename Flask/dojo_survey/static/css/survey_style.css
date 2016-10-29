@@ -1,0 +1,53 @@
+* {
+    font-family: arial;
+}
+
+#wrapper {
+    height: auto;
+    width: 440px;
+    background-color: white;
+    margin: auto;
+    padding: 50px;
+    display: block;
+    border: 1px solid black;
+}
+
+form {
+    font-size: 20px;
+}
+
+input {
+    display: inline;
+    margin-left: 120px;
+    width: 170px;
+}
+
+#location {
+    margin-left: 100px;
+}
+
+#language {
+    margin-left: 55px;
+}
+
+select {
+    display: inline;
+    margin-left: 70px;
+    width: 175px;
+}
+
+textarea {
+    width: 400px;
+    height: 100px;
+}
+
+#button {
+    width: 70px;
+    height: 30px;
+    margin-left: 338px;
+    background-color: #76A5AF;
+    color: white;
+    font-size: 15px;
+    box-shadow: 5px 5px 5px black;
+    border: 2px solid black;
+}

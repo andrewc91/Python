@@ -1,0 +1,35 @@
+h1, h3 {
+    text-align: center;
+}
+
+p {
+    font-size: 25px;
+    text-align: center;
+    padding-top: 120px;
+}
+
+a {
+    margin-left: 105px;
+}
+
+div {
+    margin: auto;
+}
+
+#wrong {
+    background-color: red;
+    width: 300px;
+    height: 300px;
+    color: white;
+}
+
+#right {
+    background-color: green;
+    width: 300px;
+    height: 300px;
+    color: white;
+}
+
+form {
+    margin-left: 590px;
+}

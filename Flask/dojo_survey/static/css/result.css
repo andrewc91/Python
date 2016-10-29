@@ -1,0 +1,24 @@
+* {
+    font-family: arial;
+}
+
+#wrapper {
+    width: 440px;
+    height: 300px;
+    margin: auto;
+    border: 1px solid black;
+    padding: 50px;
+}
+
+a {
+    width: 70px;
+    height: 40px;
+    margin-left: 338px;
+    background-color: #76A5AF;
+    color: white;
+    font-size: 15px;
+    box-shadow: 5px 5px 5px black;
+    border: 2px solid black;
+    text-decoration: none;
+    padding: 5px;
+}
